@@ -1,0 +1,12 @@
+segments:
+        -
+                first: 'A'
+                last: 'Z'
+        -
+                first: 'a'
+                last: 'z'
+        -
+                first: '0'
+                last: '9'
+
+source: type

@@ -1,0 +1,6 @@
+segments:
+        -
+                first: 'A'
+                last: 'Z'
+
+source: fonts_with_distortions
